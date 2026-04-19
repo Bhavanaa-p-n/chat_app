@@ -21,5 +21,5 @@ node_modules/
 # Environment
 .env
 
-# Upload files (optional)
+# Uploads (optional)
 uploads/
