@@ -1,0 +1,25 @@
+# Build files
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ
+*.iml
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Upload files (optional)
+uploads/
